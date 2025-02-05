@@ -31,6 +31,7 @@ This repository serves as both a learning resource and a portfolio for mastering
 ### Learning Modules
 1. [**Pyramid Generator**](./01.%20Pyramid-generator/script.js)
 2. [**Gradebook**](./02.%20Gradebook/script.js)
+3. [**Role Playing**](./03.%20Role-playing/script.js)
 
 ### Each folder contains the following:  
 - JavaScript files for the project  
