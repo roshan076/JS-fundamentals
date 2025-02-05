@@ -1,4 +1,4 @@
-# Calorie Tracker Web Application
+# Calorie Counter
 
 This JavaScript code enables a calorie tracking web application. Users can input calories for different meals (breakfast, lunch, dinner, snacks), track their exercise, and see if they are within their calorie budget or in surplus/deficit. It also includes a feature to dynamically add new input fields for each meal type.
 

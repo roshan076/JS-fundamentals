@@ -34,6 +34,7 @@ This repository serves as both a learning resource and a portfolio for mastering
 3. [**Role Playing**](./03.%20Role-playing/script.js)
 4. [**Color Changer**](./04.%20Color-changer/script.js)
 5. [**Calorie Counter**](./05.%20Calorie-counter/script.js)
+6. [**RPS Game**](./06.%20RPS-game/script.js)
 
 ### Each folder contains the following:  
 - JavaScript files for the project  
