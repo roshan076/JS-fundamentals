@@ -38,6 +38,7 @@ This repository serves as both a learning resource and a portfolio for mastering
 7. [**Music Player**](./07.%20Music-player/script.js)
 8. [**Date Formatter**](./08.%20Date-formatter/script.js)
 9. [**Team Cards**](./09.%20Team-cards/script.js)
+10. [**Todo App**](./10.%20Todo-app/script.js)
 
 ### Each folder contains the following:  
 - JavaScript files for the project  
