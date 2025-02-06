@@ -36,6 +36,7 @@ This repository serves as both a learning resource and a portfolio for mastering
 5. [**Calorie Counter**](./05.%20Calorie-counter/script.js)
 6. [**RPS Game**](./06.%20RPS-game/script.js)
 7. [**Music Player**](./07.%20Music-player/script.js)
+8. [**Date Formatter**](./08.%20Date-formatter/script.js)
 
 ### Each folder contains the following:  
 - JavaScript files for the project  
