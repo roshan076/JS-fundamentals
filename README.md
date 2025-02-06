@@ -46,6 +46,7 @@ This repository serves as both a learning resource and a portfolio for mastering
 
 ## Certification Projects  
 The following projects are part of the final assignments required to earn the JavaScript Algorithms and Data Structures certification:  
+1. [***Palindrome Checker***](./Palindrome-checker/script.js)
 
 ---
 
