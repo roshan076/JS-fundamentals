@@ -39,6 +39,7 @@ This repository serves as both a learning resource and a portfolio for mastering
 8. [**Date Formatter**](./08.%20Date-formatter/script.js)
 9. [**Team Cards**](./09.%20Team-cards/script.js)
 10. [**Todo App**](./10.%20Todo-app/script.js)
+11. [**DB Converter**](./11.%20DB-converter/script.js)
 
 ### Each folder contains the following:  
 - JavaScript files for the project  
@@ -50,7 +51,7 @@ This repository serves as both a learning resource and a portfolio for mastering
 ## Certification Projects  
 The following projects are part of the final assignments required to earn the JavaScript Algorithms and Data Structures certification:  
 1. [***Palindrome Checker***](./Palindrome-checker/script.js)
-
+2. [***Numeral Converter***](./Numeral-converter/script.js)
 ---
 
 ## Installation  
