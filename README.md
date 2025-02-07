@@ -41,6 +41,7 @@ This repository serves as both a learning resource and a portfolio for mastering
 10. [**Todo App**](./10.%20Todo-app/script.js)
 11. [**DB Converter**](./11.%20DB-converter/script.js)
 12. [**Spam Filter**](./12.%20Spam-filter/script.js)
+13. [**Number Sorter**](./13.%20Number-sorter/script.js)
 
 ### Each folder contains the following:  
 - JavaScript files for the project  
