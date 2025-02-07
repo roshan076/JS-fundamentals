@@ -40,6 +40,7 @@ This repository serves as both a learning resource and a portfolio for mastering
 9. [**Team Cards**](./09.%20Team-cards/script.js)
 10. [**Todo App**](./10.%20Todo-app/script.js)
 11. [**DB Converter**](./11.%20DB-converter/script.js)
+12. [**Spam Filter**](./12.%20Spam-filter/script.js)
 
 ### Each folder contains the following:  
 - JavaScript files for the project  
