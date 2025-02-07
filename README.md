@@ -43,6 +43,7 @@ This repository serves as both a learning resource and a portfolio for mastering
 12. [**Spam Filter**](./12.%20Spam-filter/script.js)
 13. [**Number Sorter**](./13.%20Number-sorter/script.js)
 14. [**Statistics Calculator**](./14.%20Statistics-calculator/script.js)
+15. [**Spreadsheet**](./15.%20Spreadsheet/script.js)
 
 ### Each folder contains the following:  
 - JavaScript files for the project  
