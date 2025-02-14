@@ -1,0 +1,122 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background: linear-gradient(135deg, #6a11cb, #2575fc);
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 20px;
+}
+
+main {
+  background: rgba(255, 255, 255, 0.5);
+  border-radius: 20px;
+  padding: 40px;
+  width: 90%;
+  max-width: 600px;
+  box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);
+  border: 1px solid rgba(255, 255, 255, 0.18);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+h1 {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  margin-bottom: 20px;
+  white-space: nowrap;
+}
+
+section p {
+  text-align: center;
+  margin-bottom: 15px;
+  font-size: 1.2rem;
+  color: #f0f0f0;
+}
+
+#phone-form {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#user-input {
+  width: 100%;
+  padding: 12px 15px;
+  font-size: 1rem;
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.2);
+  color: black;
+  margin-bottom: 20px;
+  backdrop-filter: blur(5px);
+  -webkit-backdrop-filter: blur(5px);
+  transition: border-color 0.3s ease, background 0.3s ease;
+}
+
+#user-input:focus {
+  outline: none;
+  border-color: #fff;
+}
+
+#check-btn,
+#clear-btn {
+  display: inline-block;
+  width: 200px;
+  padding: 12px 30px;
+  font-size: 1rem;
+  border: none;
+  border-radius: 50px;
+  cursor: pointer;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  margin: 0 15px;
+  color: #fff;
+}
+
+#check-btn {
+  background: linear-gradient(135deg, #2575fc, #1e64d1);
+}
+
+#clear-btn {
+  background: linear-gradient(135deg, #6a11cb, #5710a7);
+}
+
+#check-btn:hover,
+#clear-btn:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+#results-div {
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+@media (max-width: 600px) {
+  main {
+    padding: 20px;
+  }
+  h1 {
+    font-size: 1.5rem;
+  }
+  section p {
+    font-size: 1rem;
+  }
+  #user-input {
+    padding: 10px 12px;
+    font-size: 0.9rem;
+  }
+  #check-btn,
+  #clear-btn {
+    width: 150px;
+    padding: 10px 20px;
+    font-size: 0.9rem;
+    margin: 0 10px;
+  }
+}
